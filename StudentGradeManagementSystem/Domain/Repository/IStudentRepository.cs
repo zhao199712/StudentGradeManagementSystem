@@ -1,4 +1,6 @@
-namespace StudentGradeManagementSystem.Repository;
+using StudentGradeManagementSystem.Domain.POCO;
+
+namespace StudentGradeManagementSystem.Domain.Repository;
 
 public interface IStudentRepository
 {

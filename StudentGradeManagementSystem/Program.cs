@@ -1,9 +1,22 @@
-﻿namespace StudentGradeManagementSystem;
+﻿using Autofac;
+using StudentGradeManagementSystem.Domain.Logic;
+using StudentGradeManagementSystem.WinForm;
 
-class Program
+namespace StudentGradeManagementSystem
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            var container = Di.BuildContainer(); // Call the method from your DI class
+
+            // Use the Autofac container to resolve services
+            using (var scope = container.BeginLifetimeScope())
+            {
+                // Example: You can get your services like this
+                // var gradeService = scope.Resolve<IGradeService>();
+                Console.WriteLine("Hello, World with Autofac!");
+            }
+        }
     }
 }

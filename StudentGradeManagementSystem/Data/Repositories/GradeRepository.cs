@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using StudentGradeManagementSystem.Domain.POCO;
 using StudentGradeManagementSystem.Domain.Repository;
+using StudentGradeManagementSystem.Data.EF;
 
 namespace StudentGradeManagementSystem.Data.Repositories
 {
@@ -11,6 +12,11 @@ namespace StudentGradeManagementSystem.Data.Repositories
         public GradeRepository(ApplicationDbContext context)
         {
             _context = context;
+        }
+
+        public IEnumerable<Grade> GetAll()
+        {
+            return _context.Grades.ToList();
         }
 
         public IEnumerable<Grade> GetByStudentId(int studentId)
