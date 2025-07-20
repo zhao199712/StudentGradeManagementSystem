@@ -12,3 +12,9 @@
 
 ## 專案架構
 
+Domain/POCO
+Domain/Repository
+Logic/Services
+Data/Repositories
+WinForm/Di.cs
+
