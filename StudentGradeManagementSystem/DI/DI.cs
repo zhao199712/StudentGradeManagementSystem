@@ -5,14 +5,30 @@ using StudentGradeManagementSystem.Data.Repositories;
 using StudentGradeManagementSystem.Domain.Logic;
 using StudentGradeManagementSystem.Domain.Repository; // IRepository 的命名空間
 using StudentGradeManagementSystem.Logic.Services;
+using StudentGradeManagementSystem.Domain.Strategy; // 要引入命名空間
+
+// 註冊策略工廠函式
 
 namespace StudentGradeManagementSystem.WinForm
 {
+  
     public static class Di
     {
+      
         public static IContainer BuildContainer()
         {
+            
             var builder = new ContainerBuilder();
+            
+            builder.Register<Func<string, IGradingStrategy>>(ctx =>
+            {
+                return strategyType => strategyType.ToLower() switch
+                {
+                    "traditional" => new TraditionalGradingStrategy(),
+                    "curved" => new CurvedGradingStrategy(),
+                    _ => throw new ArgumentException($"未知的策略型別: {strategyType}")
+                };
+            });
 
             // 連線字串 (依照您的要求，暫時硬編碼)
             const string connStr = "Server=192.168.50.11;Database=StudentGradeDb;User Id=sa;Password=@Aa19971105;TrustServerCertificate=True;";
