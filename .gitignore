@@ -1,5 +1,29 @@
+# Rider / JetBrains 專屬
+.idea/
+*.sln.iml
+*.iml
+_ReSharper.Caches/
+*.DotSettings.user
+
+# VS / .NET 一般輸出與快取
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+*.log
+*.suo
+*.user
+*.db
+
+# EF Core
+Migrations/
+*.sqlite
+*.mdf
+*.ldf
+
+# NuGet
+packages/
+*.nupkg
+
+# OS 層級垃圾
+.DS_Store
+Thumbs.db
+
