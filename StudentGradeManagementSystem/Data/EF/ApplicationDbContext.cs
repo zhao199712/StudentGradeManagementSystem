@@ -18,9 +18,9 @@ namespace StudentGradeManagementSystem.Data.EF
         {
             base.OnModelCreating(modelBuilder);
 
-            // 可選：自訂欄位限制與索引，例如：
-            modelBuilder.Entity<Student>().Property(s => s.Name).IsRequired().HasMaxLength(50);
-            modelBuilder.Entity<Course>().Property(c => c.Name).IsRequired().HasMaxLength(100);
+            modelBuilder.ApplyConfiguration(new StudentConfiguration());
+            modelBuilder.ApplyConfiguration(new CourseConfiguration());
+            modelBuilder.ApplyConfiguration(new GradeConfiguration());
         }
     }
 }
