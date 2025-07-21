@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8818DAC-45AC-4361-9C34-348AE92F2494}|GUI\\GUI.csproj|C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8818DAC-45AC-4361-9C34-348AE92F2494}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8818DAC-45AC-4361-9C34-348AE92F2494}|GUI\\GUI.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8818DAC-45AC-4361-9C34-348AE92F2494}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\studentgrademanagementsystem\\domain\\strategy\\gradingstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|solutionrelative:studentgrademanagementsystem\\domain\\strategy\\gradingstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\studentgrademanagementsystem\\domain\\strategy\\curvedgradingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|solutionrelative:studentgrademanagementsystem\\domain\\strategy\\curvedgradingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\studentgrademanagementsystem\\domain\\logic\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|solutionrelative:studentgrademanagementsystem\\domain\\logic\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8818DAC-45AC-4361-9C34-348AE92F2494}|GUI\\GUI.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\gui\\courseanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8818DAC-45AC-4361-9C34-348AE92F2494}|GUI\\GUI.csproj|solutionrelative:gui\\courseanalysisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\studentgrademanagementsystem\\domain\\logic\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|solutionrelative:studentgrademanagementsystem\\domain\\logic\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\studentgrademanagementsystem\\presentation\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|solutionrelative:studentgrademanagementsystem\\presentation\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8818DAC-45AC-4361-9C34-348AE92F2494}|GUI\\GUI.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\gui\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8818DAC-45AC-4361-9C34-348AE92F2494}|GUI\\GUI.csproj|solutionrelative:gui\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|c:\\users\\u0522\\source\\repos\\studentgrademanagementsystem\\studentgrademanagementsystem\\domain\\poco\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E97A90-C0AA-4556-B3ED-A76E93BEEC5D}|StudentGradeManagementSystem\\StudentGradeManagementSystem.csproj|solutionrelative:studentgrademanagementsystem\\domain\\poco\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 263,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurvedGradingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\Strategy\\CurvedGradingStrategy.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagementSystem\\Domain\\Strategy\\CurvedGradingStrategy.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\Strategy\\CurvedGradingStrategy.cs",
+              "RelativeToolTip": "StudentGradeManagementSystem\\Domain\\Strategy\\CurvedGradingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:13:50.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradingStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\Strategy\\GradingStrategyFactory.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagementSystem\\Domain\\Strategy\\GradingStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\Strategy\\GradingStrategyFactory.cs",
+              "RelativeToolTip": "StudentGradeManagementSystem\\Domain\\Strategy\\GradingStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:12:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseAnalysisForm.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\GUI\\CourseAnalysisForm.cs",
+              "RelativeDocumentMoniker": "GUI\\CourseAnalysisForm.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\GUI\\CourseAnalysisForm.cs",
+              "RelativeToolTip": "GUI\\CourseAnalysisForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:28:56.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGradeService.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\Logic\\IGradeService.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagementSystem\\Domain\\Logic\\IGradeService.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\Logic\\IGradeService.cs",
+              "RelativeToolTip": "StudentGradeManagementSystem\\Domain\\Logic\\IGradeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:54:32.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\Logic\\ICourseService.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagementSystem\\Domain\\Logic\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\Logic\\ICourseService.cs",
+              "RelativeToolTip": "StudentGradeManagementSystem\\Domain\\Logic\\ICourseService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABCwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:54:23.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mappers.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Presentation\\Mappers.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagementSystem\\Presentation\\Mappers.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Presentation\\Mappers.cs",
+              "RelativeToolTip": "StudentGradeManagementSystem\\Presentation\\Mappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:33:03.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\POCO\\Student.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagementSystem\\Domain\\POCO\\Student.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\StudentGradeManagementSystem\\Domain\\POCO\\Student.cs",
+              "RelativeToolTip": "StudentGradeManagementSystem\\Domain\\POCO\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:57:47.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\GUI\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "GUI\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\GUI\\AddStudentForm.cs",
+              "RelativeToolTip": "GUI\\AddStudentForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwC4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:55:17.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\GUI\\MainForm.cs",
+              "RelativeToolTip": "GUI\\MainForm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAzwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:05:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\u0522\\source\\repos\\StudentGradeManagementSystem\\GUI\\MainForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUI\\MainForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:00:44.336Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
